@@ -1,0 +1,58 @@
+{
+    "front":[
+        {
+            "sen":"Nowadays, there is a widespread concern over the issue that %n1 became popular. ",
+            "a":0,
+            "n":1
+        },
+        {
+            "sen":"With the development of technology, a host of young people attach great importance to %n1. ",
+            "a":0,
+            "n":1
+        },
+        {
+            "sen":"When asked about %n1,the vast majority of people say that %n1 is %a1, but I think a bit differently. ",
+            "a":1,
+            "n":2
+        }
+    ],
+    "mid":[
+        {
+            "sen":"There are a few main reasons to explain why %n1 is likely to be %a1. ",
+            "a":1,
+            "n":1
+        },
+        {
+            "sen":"%n1 play a daily increaing role in %n2. ",
+            "a":0,
+            "n":2
+        },
+        {
+            "sen":"From another perspective, %n1 lay a solid foundation for %n2. ",
+            "a":0,
+            "n":2
+        },
+        {
+            "sen":"There is no doubt that %n1 to %n2 is what water to fish. ",
+            "a":0,
+            "n":2
+        }
+    ],
+    "end":[
+        {
+            "sen":"From what has been mentioned above, It is not difficult to draw the conclusion that %n1 is becoming more and more %a1. ",
+            "a":1,
+            "n":1
+        },
+        {
+            "sen":"There isn't a foolproof strategy for %n1.We still have a long way to go. ",
+            "a":0,
+            "n":1
+        },
+        {
+            "sen":"Whatever you do please remember those, if you underatand it and apply it to your daily life , you will necessart benefit a lot from it. ",
+            "a":0,
+            "n":0
+        }
+    ]
+}
